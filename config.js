@@ -26,7 +26,7 @@ window.CONFIG = {
 
   // Pesan hadiah
   gift: "🎉 Surprise! Hadiah paling penting bukan barang, tapi harapan supaya kamu selalu bahagia, disayangi, dan tidak pernah lupa betapa berharganya dirimu. Selamat ulang tahun, birthday girl! ♡",
-  giftExtra: "Satu hal lagi: jangan lupa tersenyum hari ini. Kamu pantas dirayakan. 🐱",
+  giftExtra: "Mohon maaf yaa jika selama ini Elang ada salah sama Tyak, mohon di maafkan yaa…, I Love Youuu :)",
 
   // Musik: taruh file di folder music/ lalu ganti nama di sini
   music: { src: "music/musik.mp3", title: "Shape of My Heart", artist: "Music for Tyaakk" }
