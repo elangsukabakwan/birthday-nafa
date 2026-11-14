@@ -19,7 +19,7 @@ window.CONFIG = {
     "Selamat ulang tahun yang ke-18 Sayangg.",
     "Semoga panjang umurr, sehat selalu, di permudah segala usahanya sama tuhann",
     "Terimakasih karena sudah bisa nemenein Elang sampaii saat ini, kalo ga ada tyak mungkin hidupku berantakan wkwk",
-    "Ohh iya, ini mungkin juga jadi uacapan sebelum kamu berangkat PKL di Purworejo",
+    "Ohh iya, ini mungkin juga jadi ucapan sebelum kamu berangkat PKL di Purworejo",
     "Aku cuma mau bilang, selama kamu di purworejo aku cuma mau kamu bahagia karena bisa ketemu orang yang kamu sayang. Semoga disana kamu senang yaaa.",
     "I LOVEE YOUUU ♡"
   ],
