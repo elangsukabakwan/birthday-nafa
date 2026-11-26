@@ -20,15 +20,15 @@ window.CONFIG = {
   letter: [
     "Selamat ulang tahun yang ke-18 Sayangg.",
     "Semoga panjang umurr, sehat selalu, di permudah segala usahanya sama tuhann",
-    "Terimakasih karena sudah bisa nemenein Elang sampaii saat ini, kalo ga ada tyak mungkin hidup elang jadi berantakan wkwk",
-    "Sebelum ke Purwurejo aku pengen abisin waktu sama tyaak,  soalnyaa abis ini ga ketemu beberapa bulann",
+    "Terimakasih karena sudah bisa nemenin Elang sampaii saat ini, kalo ga ada tyak mungkin hidup elang jadi berantakan wkwk",
+    "Sebelum ke Purworejo aku pengen abisin waktu sama tyaak,  soalnyaa abis ini ga ketemu beberapa bulann",
     "Aku cuma mau bilang, selama kamu di purworejo aku cuma mau kamu bahagia karena bisa ketemu orang yang kamu sayang. Semoga disana kamu senang yaaa.",
     "I LOVEE YOUUU ♡"
   ],
   letterSign: "Dari Elanggg,",   // ganti dengan namamu
 
   // Pesan hadiah
-  gift: "Aduhh ga ada hadiah, ada nya cuma elangg wkwkwkw",
+  gift: "HIIHUUUUU, ga ada hadiah aahahaha, ada nya cuma elangg wkwkwkw",
   giftExtra: "Mohon maaf ya kalo selama ini elang ada salahh hehee, terus tolong maklumin juga sifatnya yaa :v",
 
   // Musik: taruh file di folder music/ lalu ganti nama di sini
